@@ -1,0 +1,22 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-dashboard",
+      "description": "Premium AI Dashboard Interface",
+      "imageUrl": "https://picsum.photos/seed/creatormind1/1200/800",
+      "imageHint": "AI Dashboard"
+    },
+    {
+      "id": "content-lab",
+      "description": "AI Content Generation Workspace",
+      "imageUrl": "https://picsum.photos/seed/creatormind2/800/600",
+      "imageHint": "Content Creation"
+    },
+    {
+      "id": "analytics",
+      "description": "Predictive Viral Analytics",
+      "imageUrl": "https://picsum.photos/seed/creatormind3/800/600",
+      "imageHint": "Data Analytics"
+    }
+  ]
+}
