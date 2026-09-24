@@ -172,7 +172,7 @@ CreatorMind AI is built to *feel* as futuristic as it performs.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/OMKAR-tech-hub/creatormind-ai.git
+git clone https://github.com/adityam1825/Creator_Chakra.git
 
 # 2. Navigate into the project
 cd creatormind-ai
